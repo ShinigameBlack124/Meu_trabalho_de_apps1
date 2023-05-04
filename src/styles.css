@@ -1,0 +1,35 @@
+/* .QualquerCoisa {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+body {
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+  text-align: center;
+} */
+
+.Card {
+  margin: 5px;
+  background-color: hotpink;
+  border: solid 2px black;
+  border-radius: 20px;
+  background: linear-gradient(
+    90deg,
+    rgba(14, 0, 255, 1) 0%,
+    rgba(252, 0, 255, 1) 100%
+  );
+}
+
+.Titulo {
+  color: #8a0334;
+}
+
+.Subtitulo {
+  color: #73038a;
+}
+
+.Texto {
+  color: #ffffff;
+  /* background-color: green; */
+  /* border: solid 20px black; */
+}

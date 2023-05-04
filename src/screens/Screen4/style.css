@@ -1,0 +1,16 @@
+.container {
+  flex: 1;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+  background-color: rgb(29, 184, 132);
+}
+.Logo2 {
+  width: 200px;
+  margin-left: 40%;
+  border-radius: 120px;
+  border-style: solid;
+}
+.apresentacao2 {
+  font-family: cursive;
+}

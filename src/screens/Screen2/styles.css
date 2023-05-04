@@ -1,0 +1,17 @@
+.container {
+  flex: 1;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+}
+
+.JSP {
+  width: 300px;
+  margin-left: 30%;
+  margin-top: 1%;
+  border-style: solid;
+}
+
+.Caixa {
+  font-family: cursive;
+}
